@@ -1,0 +1,1 @@
+%CD%\venv\Scripts\python37.exe generator_json.py
